@@ -1,0 +1,6 @@
+delivery_bucket,total_orders,avg_review_score,pct_1_star
+1. >7d Early,71320,4.32,6.4
+2. 0-7d Early,17330,4.2,6.99
+3. 1-3d Late,2660,3.76,13.65
+4. 4-7d Late,1819,2.32,51.68
+5. >7d Late,3341,1.73,66.75
